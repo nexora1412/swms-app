@@ -6,6 +6,9 @@
 > **Supervisor:** Dr. Naziya Huzzain  
 > **Version:** 1.0 (October 2026)
 
+🌐 **Live GitHub Pages URL:** [https://nexora1412.github.io/swms-app/](https://nexora1412.github.io/swms-app/)  
+💻 **GitHub Repository:** [https://github.com/nexora1412/swms-app](https://github.com/nexora1412/swms-app)
+
 ---
 
 ## 🌟 Overview
